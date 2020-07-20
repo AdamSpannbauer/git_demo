@@ -1,2 +1,2 @@
 # git_demo
-asdfghjkl;
+Just a quick demo repo to show some git stuff.
